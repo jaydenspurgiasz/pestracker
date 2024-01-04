@@ -1,0 +1,12 @@
+{
+	"name": "pestracker",
+	"version": "1.0.0",
+	"description": "Keeps Track of Pes Tournament Scores. What the fuck else would it do?",
+	"main": "src/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node src/index.js"
+	},
+	"author": "",
+	"license": "ISC"
+}
